@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Ahaha1998/WebFramework-Biodata/static/css/main.fd677c72.chunk.css",
-    "main.js": "/Ahaha1998/WebFramework-Biodata/static/js/main.1ebb4f21.chunk.js",
-    "main.js.map": "/Ahaha1998/WebFramework-Biodata/static/js/main.1ebb4f21.chunk.js.map",
+    "main.css": "/Ahaha1998/WebFramework-Biodata/static/css/main.632d952b.chunk.css",
+    "main.js": "/Ahaha1998/WebFramework-Biodata/static/js/main.f29db084.chunk.js",
+    "main.js.map": "/Ahaha1998/WebFramework-Biodata/static/js/main.f29db084.chunk.js.map",
     "runtime-main.js": "/Ahaha1998/WebFramework-Biodata/static/js/runtime-main.9f3d366a.js",
     "runtime-main.js.map": "/Ahaha1998/WebFramework-Biodata/static/js/runtime-main.9f3d366a.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Ahaha1998/WebFramework-Biodata/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.e7cc0054.chunk.js": "/Ahaha1998/WebFramework-Biodata/static/js/2.e7cc0054.chunk.js",
-    "static/js/2.e7cc0054.chunk.js.map": "/Ahaha1998/WebFramework-Biodata/static/js/2.e7cc0054.chunk.js.map",
+    "static/js/2.7fa5ea74.chunk.js": "/Ahaha1998/WebFramework-Biodata/static/js/2.7fa5ea74.chunk.js",
+    "static/js/2.7fa5ea74.chunk.js.map": "/Ahaha1998/WebFramework-Biodata/static/js/2.7fa5ea74.chunk.js.map",
     "index.html": "/Ahaha1998/WebFramework-Biodata/index.html",
-    "precache-manifest.587bc3102b6b377792128f513e696adc.js": "/Ahaha1998/WebFramework-Biodata/precache-manifest.587bc3102b6b377792128f513e696adc.js",
+    "precache-manifest.fa758f02d4621b596f499a6aaf19aa09.js": "/Ahaha1998/WebFramework-Biodata/precache-manifest.fa758f02d4621b596f499a6aaf19aa09.js",
     "service-worker.js": "/Ahaha1998/WebFramework-Biodata/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Ahaha1998/WebFramework-Biodata/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.fd677c72.chunk.css.map": "/Ahaha1998/WebFramework-Biodata/static/css/main.fd677c72.chunk.css.map",
-    "static/js/2.e7cc0054.chunk.js.LICENSE.txt": "/Ahaha1998/WebFramework-Biodata/static/js/2.e7cc0054.chunk.js.LICENSE.txt"
+    "static/css/main.632d952b.chunk.css.map": "/Ahaha1998/WebFramework-Biodata/static/css/main.632d952b.chunk.css.map",
+    "static/js/2.7fa5ea74.chunk.js.LICENSE.txt": "/Ahaha1998/WebFramework-Biodata/static/js/2.7fa5ea74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9f3d366a.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.e7cc0054.chunk.js",
-    "static/css/main.fd677c72.chunk.css",
-    "static/js/main.1ebb4f21.chunk.js"
+    "static/js/2.7fa5ea74.chunk.js",
+    "static/css/main.632d952b.chunk.css",
+    "static/js/main.f29db084.chunk.js"
   ]
 }
