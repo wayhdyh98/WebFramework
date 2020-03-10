@@ -6,7 +6,7 @@
 
 A. Tampilannya akan menyempit ke tengah.
 
-<img src='./prak1a.png'>
+<img src='./src/prak1a.png'>
 
 B. Perbedaannya kalau container untuk layout yang model box (tidak full-width layar browser) sedangkan container-fluid untuk yang full-width layar browser.
 
@@ -24,7 +24,7 @@ Karena port 3000 dipakai untuk menjalankan projek react dan hal tersebut dapat m
 
 Hasilnya server kedua yang akan menggunakan port yang sama mendapat notifikasi untuk mengubah tujuan port lain atau server tidak akan berjalan. Untuk lebih jelasnya lihat gambar di bawah.
 
-<img src='./prak2b.png'>
+<img src='./src/prak2b.png'>
 
 ## Praktikum 3
 
