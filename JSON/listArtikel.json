@@ -14,15 +14,22 @@
   ],
   "mahasiswa": [
     {
-      "NIM": 1741721111,
+      "id": 1,
+      "NIM": "1741721111",
       "nama": "Bimo Perkaso",
-      "alamat": "Jl. Menur No. 99 Surabya",
+      "alamat": "Jl. Menur No. 99 Surabaya",
       "hp": "0821938",
       "angkatan": "2016",
-      "status": "lulus"
+      "status": "Lulus"
+    },
+    {
+      "id": 1583858112672,
+      "NIM": "1741720190",
+      "nama": "Wahyu Hidayah",
+      "hp": "085236201517",
+      "alamat": "Malang",
+      "angkatan": "2017",
+      "status": "Active"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

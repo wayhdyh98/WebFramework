@@ -5,6 +5,20 @@
   background-color: #4d6dff;
 }
 
+.nav-side a {
+  color: white;
+}
+
+.nav-side a.active {
+  border-bottom: 2px solid white;
+  width: 50%;
+}
+
+.nav-side a:hover,
+.nav-side a:active {
+  color: #7e96ff;
+}
+
 .content {
   padding: 20px 30px;
   color: #232323;
@@ -20,6 +34,21 @@
   margin-bottom: 10px;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.322);
   display: flex;
+}
+
+.mahasiswa {
+  padding: 15px 0px;
+  border: 1px solid #d6d6d6;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.br {
+  border-right: 2px solid #1a1a1abe;
+}
+
+.br-w {
+  border-right: 2px solid #c9c9c9c2;
 }
 
 .gambar-artikel {
@@ -48,4 +77,27 @@
 .konten-artikel p.isi-artikel {
   font-size: 16px;
   margin-bottom: 10px;
+}
+
+h4.title {
+  color: #1d1d1d;
+  font-size: 20px;
+}
+
+h5.subtitle {
+  color: #1f1f1f9c;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+h6.konten {
+  color: #1d1d1d;
+  font-size: 14px;
+}
+
+h6.title {
+  color: #444444;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 15px;
 }
