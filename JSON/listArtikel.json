@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Memakan atau Dimakan",
+      "body": "Cara bertahan hidup di alam liar dengan orang asing...."
+    },
+    {
+      "id": 1583400605656,
+      "title": "Cara Menanam Keju di Halaman",
+      "body": "Ternyata keju dapat tumbuh di halaman belakang loh! Gak percaya? Sama!"
+    }
+  ],
+  "mahasiswa": [
+    {
+      "NIM": 1741721111,
+      "nama": "Bimo Perkaso",
+      "alamat": "Jl. Menur No. 99 Surabya",
+      "hp": "0821938",
+      "angkatan": "2016",
+      "status": "lulus"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
