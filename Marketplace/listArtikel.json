@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Memakan atau Dimakan",
+      "body": "Cara bertahan hidup di alam liar dengan orang asing...."
+    },
+    {
+      "id": 1583400605656,
+      "title": "Cara Menanam Keju di Halaman",
+      "body": "Ternyata keju dapat tumbuh di halaman belakang loh! Gak percaya? Sama!"
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": 1,
+      "NIM": "1741721111",
+      "nama": "Bimo Perkaso",
+      "alamat": "Jl. Menur No. 99 Surabaya",
+      "hp": "0821938",
+      "angkatan": "2016",
+      "status": "Lulus"
+    },
+    {
+      "id": 1583858112672,
+      "NIM": "1741720190",
+      "nama": "Wahyu Hidayah",
+      "hp": "085236201517",
+      "alamat": "Malang",
+      "angkatan": "2017",
+      "status": "Active"
+    }
+  ]
+}

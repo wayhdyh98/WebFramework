@@ -1,0 +1,200 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+h1.title {
+  color: #232323;
+  letter-spacing: 1px;
+  text-align: center;
+  margin: 15px 0px 0px 0px;
+}
+
+h3.title,
+h4.title {
+  color: #232323d0;
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 30px;
+  margin: 5px 15px;
+  padding-bottom: 10px;
+}
+
+h4.title {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+h4.title#card {
+  margin: 5px 0px;
+  font-size: 18px;
+  padding-bottom: 0px;
+  text-align: left;
+}
+
+h4.subtitle {
+  color: #3b3b3b;
+  letter-spacing: 1px;
+  font-size: 12px;
+  margin: 5px 0px;
+}
+
+span.first {
+  color: #25b893;
+}
+
+.bb {
+  position: relative;
+}
+
+.bb:after {
+  content: "";
+  width: 30%;
+  height: 5px;
+  left: 35%;
+  bottom: 0;
+  position: absolute;
+  background: linear-gradient(to right, #232323d0 50%, #25b893 50%);
+}
+
+.card {
+  border: none !important;
+}
+
+.card-p {
+  margin-top: 10px;
+  border: 1px solid #25b893 !important;
+}
+
+.card-p .card-body {
+  padding-top: 0px;
+}
+
+.card-content,
+.form-content {
+  padding: 0px;
+  align-items: center;
+}
+
+.form-content {
+  text-align: center;
+}
+
+.nav-atas {
+  text-decoration: none !important;
+  color: #2c2c2c;
+}
+
+.nav-atas:hover {
+  color: #25b893;
+}
+
+.nav-atas.list .list-group-item {
+  border-radius: 0px;
+}
+
+.nav-atas.list .list-group-item:hover {
+  border: 1px solid #25b893;
+}
+
+.cb,
+.button-login {
+  width: 100%;
+}
+
+.button-login {
+  padding: 5px 15px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #25b893;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #16725b;
+}
+
+.button-login:active {
+  box-shadow: 0 5px #16725b;
+  transform: translateY(4px);
+}
+
+button.active.focus,
+button.active:focus,
+button.focus,
+button.focus:active,
+button:active:focus,
+button:focus {
+  outline: 0 !important;
+  outline-offset: 0 !important;
+}
+
+.signout {
+  font-size: 13px !important;
+  margin-left: 20px;
+  padding: 5px 10px;
+  color: #fff;
+  background-color: #25b893;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 2px #16725b;
+}
+
+.signout:active {
+  box-shadow: 0 1px #16725b;
+  transform: translateY(1px);
+}
+
+.button-buy {
+  width: 100px;
+  padding: 5px 5px;
+  font-size: 10px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #25b893;
+  border: none;
+  box-shadow: 0 4px #16725b;
+}
+
+.button-buy:active {
+  box-shadow: 0 1px #16725b;
+  transform: translateY(3px);
+}
+
+.info {
+  color: #6c757d;
+  cursor: default;
+}
+
+.info:hover {
+  color: #6c757d;
+}
+
+.alert-p {
+  color: #252525;
+  font-size: 15px;
+  padding: 20px 5px 0px 5px;
+  margin: 0px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
